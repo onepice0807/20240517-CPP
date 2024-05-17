@@ -1,0 +1,9 @@
+﻿  Building.cpp
+C:\Users\Atents\Desktop\ray\20240517-CPP\20240517-1000-Operator\Building.h(26,74): error C2065: 'endl': 선언되지 않은 식별자입니다.
+  (소스 파일 'Building.cpp'을(를) 컴파일하는 중)
+  
+  main.cpp
+C:\Users\Atents\Desktop\ray\20240517-CPP\20240517-1000-Operator\Building.h(26,74): error C2065: 'endl': 선언되지 않은 식별자입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
